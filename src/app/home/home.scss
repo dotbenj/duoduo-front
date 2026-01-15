@@ -2,3 +2,17 @@ h1 {
   text-align: center;
 }
 
+.actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 12px;
+}
+
+.login-button {
+  padding: 10px 12px;
+  border-radius: 8px;
+  background: #111827;
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+}
